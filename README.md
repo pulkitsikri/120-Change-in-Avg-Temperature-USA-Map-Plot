@@ -1,4 +1,4 @@
-# 120-Change-in-Avg-Temperature-USA-Map-Plot
+# 120-Percentage-Change-in-Avg-Temperature-USA-Map-Plot
 
 USA - Map Plot | Climate Change | 120% Change in Average Temperature
 ================
